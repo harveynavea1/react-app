@@ -1,0 +1,44 @@
+
+.FirstProgWrapper{
+    /* border: 1px solid red; */
+    background:  #dad1cb;
+   
+    /* background: radial-gradient(circle, rgba(0,212,255,1) 15%, rgba(9,9,121,1) 51%, rgba(4,2,34,1) 85%);; */
+    color: rgb(14, 13, 13) !important;
+    height: 80vh;
+    position: relative;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+
+}
+
+.FirstProgText{
+    font-size:x-large;
+    /* border: 2px solid rgb(43, 255, 0); */
+    padding:5em;
+    position: absolute;
+    bottom: 1vw;
+    float:left;
+    left:2em
+    /* background: rgb(0,212,255); */
+    
+  }
+
+.card{
+    position: absolute;
+    top:10vh;
+    float:right;
+    right:10vw;
+    width: 24rem;
+    border: 1px solid red;
+}
+
+.AboutMe{
+    font-weight: bolder;
+    font-size: 2.7em;
+}
+
+.card-body{
+    background-color: #f3efec;
+}
+
+
